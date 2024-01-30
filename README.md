@@ -2,4 +2,4 @@
 
 Demo için hazırlanmıştır!
 
-değişiklik yapıldı.
+değişiklik yapıldı
